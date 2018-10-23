@@ -1,0 +1,17 @@
+page-home { 
+        ion-navbar{ 
+            margin: 0.5em;
+            max-width: 97%;
+            border-radius: 5px;
+        } 
+        .body ion-item{
+            margin: 0.5em;
+            width: 95%;
+            border-radius: 5px;
+            background: rgba(0,0,0,0.5);
+            border: none;
+        } 
+        .body ion-label{
+            border: none;
+        }
+}
